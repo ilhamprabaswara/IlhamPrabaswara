@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I'm currenly learning web development
-📫 How to reach me: https://ilham.xyz
+- 🌱 I'm currenly learning web development
+- 📫 How to reach me: https://ilham.xyz
