@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currenly learning web development
 - 📫 How to reach me: https://ilham-io-next.vercel.app
+- 😄 Pronouns: He/Him
+
+### Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlhamPrabaswara&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+## Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlhamPrabaswara&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
