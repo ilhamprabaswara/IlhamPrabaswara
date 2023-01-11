@@ -30,5 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilhamprabaswara&show_icons=true&locale=en" alt="ilhamprabaswara" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilhamprabaswara&" alt="ilhamprabaswara" /></p> -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IlhamPrabaswara&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+<p><img align="center" src="[https://github-readme-streak-stats.herokuapp.com/?user=ilhamprabaswara&](https://github-readme-streak-stats.herokuapp.com?user=IlhamPrabaswara&theme=dark&hide_border=true&border_radius=10)" alt="ilhamprabaswara" /></p>
