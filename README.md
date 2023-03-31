@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Next.js**
 
-- 📝 I regularly write articles on [ilham-io-next.vercel.app/blog](ilham-io-next.vercel.app/blog)
+- 📝 I regularly write articles on [ilhamp.vercel.app/blog](ilhamp.vercel.app/blog)
 
 - 📫 How to reach me **ilhamprabaswara@gmail.com**
 
